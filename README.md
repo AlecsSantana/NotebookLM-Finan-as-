@@ -59,4 +59,34 @@ Este repositório tem caráter educacional e faz parte do meu portfólio, demons
 * Uso de Inteligência Artificial para aprendizado
 * Organização de conteúdo na área financeira
 
+ ## Exemplo Prático – Estimativa de Valor Intrínseco
+
+Para demonstrar a aplicação dos conceitos de Value Investing, foi utilizada a fórmula simplificada de Benjamin Graham:
+
+**Fórmula:**
+
+Valor Intrínseco = LPA × (8,5 + 2g)
+
+Onde:
+
+* LPA = Lucro por ação
+* g = taxa de crescimento estimada (%)
+
+**Exemplo:**
+
+* LPA: R$ 5,00
+* Crescimento estimado: 6%
+
+Valor Intrínseco = 5 × (8,5 + 12)
+Valor Intrínseco = 5 × 20,5
+**Valor Intrínseco ≈ R$ 102,50**
+
+Aplicando uma margem de segurança de 30%:
+
+Preço ideal de compra = 102,50 × 0,7
+**Preço ideal ≈ R$ 71,75**
+
+Esse cálculo simples ilustra como estimar o valor justo de uma empresa e aplicar o princípio da Margem de Segurança.
+
+
 
