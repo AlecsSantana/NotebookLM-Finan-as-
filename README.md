@@ -1,6 +1,6 @@
 # 📊 NotebookLM – Finanças e Value Investing
 
-**Projeto educacional que utiliza IA (NotebookLM) para organizar e sintetizar conceitos de Value Investing com base na filosofia de Warren Buffett.
+rojeto educacional que utiliza IA (NotebookLM) para organizar e sintetizar conceitos de Value Investing com base na filosofia de Warren Buffett.
 
 ## 🎯 Objetivo
 
