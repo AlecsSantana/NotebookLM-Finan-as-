@@ -28,4 +28,35 @@ O conteúdo foi estruturado com apoio do **NotebookLM**, permitindo:
 * Síntese e conexão entre os materiais
 * Estruturação clara e objetiva do conhecimento
 * Apoio ao aprendizado com Inteligência Artificial
+## 📚 Fontes
+
+As informações foram compiladas a partir de fontes confiáveis, como:
+
+* Cartas aos acionistas da Berkshire Hathaway
+* Artigos de veículos financeiros (Forbes, CNBC, entre outros)
+* Materiais educacionais sobre análise fundamentalista
+* Referências públicas sobre Value Investing
+
+## 👥 Público-alvo
+
+* Iniciantes no mercado financeiro
+* Estudantes de finanças
+* Interessados em análise fundamentalista
+* Investidores com foco no longo prazo
+
+## 🛠️ Ferramentas utilizadas
+
+* NotebookLM (Google)
+* Curadoria e organização de conteúdo
+* Estruturação de conhecimento com apoio de IA
+
+## 📌 Sobre o projeto
+
+Este repositório tem caráter educacional e faz parte do meu portfólio, demonstrando habilidades em:
+
+* Pesquisa e curadoria de informações
+* Estruturação de conhecimento técnico
+* Uso de Inteligência Artificial para aprendizado
+* Organização de conteúdo na área financeira
+
 
